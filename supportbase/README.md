@@ -1,1 +1,1 @@
-The files attached display images of a support base made with SOLIDWORKS software. Features and skills employed are extrude boss/base (fillets) and cut, hole wizard-counterbore, and hole wizard-tapped hole. 
+The files attached display images of a support base made with SOLIDWORKS software. Features and skills employed in the modeling process include extrude boss/base (fillets) and cut, hole wizard-counterbore, and hole wizard-tapped hole. 
