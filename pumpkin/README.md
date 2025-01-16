@@ -1,1 +1,1 @@
-
+The files attached visualize a pumpkin modeled with SOLIDWORKS software. The modeling process employs skills and features such as loft, sweep (redefining sweep paths), creating planes, creating concentric sketches, and aesthetic editing (color and shade). 
