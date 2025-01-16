@@ -1,1 +1,1 @@
-Lego brick modeled with SOLIDWORKS software. Features and skills such as extrude boss/base and cut, smart dimensioning, linear pattern, mirror entities, shelling, reference plane, and centerlines (and reference centerlines). 
+The files attached visualise a Lego brick modeled with SOLIDWORKS software. Features and skills such as extrude boss/base and cut, smart dimensioning, linear pattern, mirror entities, shelling, reference plane, and centerlines (and reference centerlines). 
