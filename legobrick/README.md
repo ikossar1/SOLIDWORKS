@@ -1,1 +1,1 @@
-The files attached visualize a Lego brick modeled with SOLIDWORKS software. Features and skills employed in the modeling process include extrude boss/base and cut, smart dimensioning, linear pattern, mirror entities, shelling, reference plane, and centerlines (and reference centerlines). 
+The files attached visualize a Lego brick modeled with SOLIDWORKS software. Features and skills employed in the modeling process include extrude boss/base and cut, smart dimensions, linear pattern, mirror entities, shelling, reference plane, and centerlines (and reference centerlines). 
